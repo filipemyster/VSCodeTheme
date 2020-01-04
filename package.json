@@ -1,0 +1,22 @@
+{
+  "name": "vscodetheme",
+  "version": "1.0.0",
+  "description": "My first Visual Studio Code theme to experiment with developing plugins for this platform.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/filipemyster/VSCodeTheme.git"
+  },
+  "author": "Filipe Cabral Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/filipemyster/VSCodeTheme/issues"
+  },
+  "homepage": "https://github.com/filipemyster/VSCodeTheme#readme",
+  "dependencies": {
+    "generator-code": "^1.2.9"
+  }
+}
