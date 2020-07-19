@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/filipemyster/VSCodeTheme#readme",
   "dependencies": {
-    "generator-code": "^1.2.9"
+    "generator-code": "^1.2.19"
   }
 }
